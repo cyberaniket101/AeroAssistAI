@@ -7,9 +7,9 @@ Currently, two official plugins are available:
 - [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
 - [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
 
-# Gemini AI Clone
+# AeroAssistAI
 
-Gemini AI Clone is a web application built using React and Vite, integrated with a generative API. This project aims to replicate the functionality and design of Gemini.
+AeroAssistAI is a web application built using React and Vite, integrated with a generative API. we made this AI webapp for Aerospace industry.
 The application utilizes modern web technologies to create a responsive and interactive user interface, mimicking the look and feel of the original Gemini platform.
 
 ## Features
@@ -32,7 +32,7 @@ The application utilizes modern web technologies to create a responsive and inte
 
 ## Getting Started
 
-To run the Gemini AI Clone locally on your machine, follow these steps:
+To run the AeroAssistAI locally on your machine, follow these steps:
 
 ### Prerequisites
 
@@ -42,7 +42,7 @@ To run the Gemini AI Clone locally on your machine, follow these steps:
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/Sohamburkule/GeminiAi-Clone.git
+   git clone https://github.com/cyberaniket101/AeroAssistAI.git
    ```
 
 2. Navigate to the project directory:
@@ -62,7 +62,7 @@ To run the Gemini AI Clone locally on your machine, follow these steps:
    npm run dev
    ```
 
-2. Open your web browser and visit `http://localhost:3000` to view the Gemini AI Clone application.
+2. Open your web browser and visit `http://localhost:3000` to view the AeroAssistAI application.
 
 ### Production Build
 
@@ -76,9 +76,8 @@ This will create an optimized production build in the `dist` directory.
 
 ## Usage
 
-- Explore the Gemini AI Clone interface to experience the replicated features of the Gemini platform.
+- Explore the AeroAssistAI interface to experience the replicated features of the Gemini platform.
 - Navigate through different sections and interact with the UI components.
-- Note that this clone is for educational and experimental purposes and does not provide real cryptocurrency trading functionalities.
 
 ## Contributing
 
@@ -87,4 +86,4 @@ Contributions to the Gemini AI Clone project are welcome! If you'd like to contr
 
 ---
 
-Feel free to reach out with any questions or feedback. Enjoy using the Gemini AI Clone! 🚀🌌
+Feel free to reach out with any questions or feedback. Enjoy using the AeroAssistAI.🚀🌌

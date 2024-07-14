@@ -47,7 +47,7 @@ To run the AeroAssistAI locally on your machine, follow these steps:
 
 2. Navigate to the project directory:
    ```bash
-   cd GeminiAi-Clone
+   cd AeroAssistAI
    ```
 
 3. Install dependencies using npm:
